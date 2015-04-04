@@ -5,10 +5,8 @@ If you SSH into unix boxes and aren't running these tools, you probably should b
 
 ### htop
 `sudo apt-get install htop`  
-[htop](http://hisham.hm/htop/)
-an interactive process viewer for Linux
+[htop](http://hisham.hm/htop/) - an interactive process viewer for Linux
 
 ### ncdu
 `sudo apt-get install ncdu`  
-[ncdu](http://dev.yorhel.nl/ncdu)  
-NCurses Disk Usage
+[ncdu](http://dev.yorhel.nl/ncdu) - NCurses Disk Usage
